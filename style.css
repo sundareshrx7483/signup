@@ -1,0 +1,95 @@
+
+
+fieldset{
+    background-image: url(./island-night-moon-scenery-digital-art-hd-wallpaper-uhdpaper.com-289@0@j.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+
+
+label{
+    
+    text-transform: uppercase;
+}
+
+label:hover{
+    cursor: pointer;
+}
+
+textarea,td>input{
+    background-color: transparent;
+    color: white;
+    overflow: hidden;
+}
+
+.submit{
+    color: rgb(255, 255, 255);
+    border-radius: 7px;
+    background-color: rgb(0, 0, 0);
+}
+
+.reset{
+    color: rgb(255, 255, 255);
+    border-radius: 7px;
+    background-color: rgb(0, 0, 0);
+}
+
+.submit:hover{
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    box-shadow: rgb(255, 255, 255);
+    transition: 0.3;
+   
+    background-color: transparent;
+}
+
+.reset:hover{
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    box-shadow: rgb(255, 255, 255);
+    transition: 0.3;
+    background-color: transparent;
+    
+}
+
+textarea{
+    background-color: transparent;
+    color: white;
+}
+
+marquee{
+    color: aliceblue;
+}
+#dob{
+    color: white;
+    background-color: rgb(1, 0, 0);
+}
+td{
+    color: rgb(203, 203, 203);
+    text-transform: uppercase;
+}
+
+input:hover{
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow:rgb(0, 0, 0);
+    background-color: rgba(134, 246, 246, 0.788);
+    transition: 0.2s;
+}
+textarea:hover{
+    color: rgb(255, 1, 1);
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow:rgb(0, 0, 0);
+    background-color: rgba(134, 246, 246, 0.788);
+    transition: 0.2s;
+}
+audio{
+ 
+   display: none;
+}
